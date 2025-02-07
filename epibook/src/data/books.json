@@ -1,0 +1,82 @@
+[
+  {
+    "asin": "123456",
+    "title": "Il Signore degli Anelli",
+    "author": "J.R.R. Tolkien",
+    "price": 25.99,
+    "img": "https://www.lafeltrinelli.it/images/9788858790311_0_0_536_0_75.jpg",
+    "description": "Un'epica avventura nella Terra di Mezzo."
+  },
+  {
+    "asin": "789101",
+    "title": "Harry Potter e la Pietra Filosofale",
+    "author": "J.K. Rowling",
+    "price": 15.99,
+    "img": "https://www.lafeltrinelli.it/images/9788831003384_0_0_536_0_75.jpg",
+    "description": "Il primo capitolo della saga di Harry Potter."
+  },
+  {
+    "asin": "112131",
+    "title": "Lo Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 19.99,
+    "img": "https://www.lafeltrinelli.it/images/9788845268342_0_0_536_0_75.jpg",
+    "description": "Le avventure di Bilbo Baggins."
+  },
+  {
+    "asin": "314159",
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 12.99,
+    "img": "https://www.lafeltrinelli.it/images/9788804668237_0_536_0_75.jpg",
+    "description": "Un romanzo distopico sulla società totalitaria."
+  },
+  {
+    "asin": "271828",
+    "title": "Orgoglio e Pregiudizio",
+    "author": "Jane Austen",
+    "price": 10.99,
+    "img": "https://www.lafeltrinelli.it/images/9788811811766_0_536_0_75.jpg",
+    "description": "Una delle storie d'amore più famose della letteratura."
+  },
+  {
+    "asin": "161803",
+    "title": "Il Nome della Rosa",
+    "author": "Umberto Eco",
+    "price": 18.50,
+    "img": "https://www.lafeltrinelli.it/images/9788845292613_0_536_0_75.jpg",
+    "description": "Un romanzo storico e giallo ambientato in un monastero medievale."
+  },
+  {
+    "asin": "141421",
+    "title": "Il Piccolo Principe",
+    "author": "Antoine de Saint-Exupéry",
+    "price": 9.99,
+    "img": "https://www.lafeltrinelli.it/images/9788884516774_0_536_0_75.jpg",
+    "description": "Un viaggio filosofico attraverso gli occhi di un bambino."
+  },
+  {
+    "asin": "173205",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "price": 14.99,
+    "img": "https://www.lafeltrinelli.it/images/9788817056659_0_536_0_75.jpg",
+    "description": "La storia epica della caccia alla balena bianca."
+  },
+  {
+    "asin": "223606",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "price": 13.50,
+    "img": "https://www.lafeltrinelli.it/images/9788804677765_0_536_0_75.jpg",
+    "description": "Il classico romanzo gotico sui vampiri."
+  },
+  {
+    "asin": "264575",
+    "title": "La Divina Commedia",
+    "author": "Dante Alighieri",
+    "price": 29.99,
+    "img": "https://www.lafeltrinelli.it/images/9788804701934_0_536_0_75.jpg",
+    "description": "Il viaggio di Dante attraverso Inferno, Purgatorio e Paradiso."
+  }
+]
